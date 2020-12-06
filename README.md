@@ -34,4 +34,20 @@
  
  System Are You Using To Run LSLNM. Just Download Linux ChromeDriver(If You Are On Linux) And Same For Windows OS and Mac OS.
  
- - After You Have The ChromeDriver Download On Your Machine
+ - After You Have The ChromeDriver Downloaded On Your Machine And Google Chrome Browser Installed, We Can Continue.
+ 
+ - Now Download The LSLNM Tool For This Github Repository "https://github.com/PR0PH3CY33/lslnm".
+ 
+ - After You Have Downloaded The Tool, Move The ChromeDriver And Put It In The Same Folder As The LSLNM Tool.
+ 
+ - When You Have Placed ChromeDriver and LSLNM Tool In The Same Folder, Open A Terminal And Navigate To The Folder.
+ 
+ - Make The LSLNM Tool By Executing In The Terminal: chmod +x lslnm
+ 
+ - After Making It Executable, Run This Command As A (Non-Superuser Or It Wont Work) To Start It: ./lslnm
+ 
+ - Now It Asks You For Your Facebook Login And Password (If You Dont Trust Me, Just Create And Use A Dummy FB Account).
+ 
+ - Now After You Have Put Your Facebook Credentials
+ 
+ 
