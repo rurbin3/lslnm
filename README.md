@@ -5,9 +5,9 @@
 
 # Proof:
 
-![Screenshot](proof-1.png)
+![Screenshot](Proof-1.png)
 
-![Screenshot](proof-2.png)
+![Screenshot](Proof-2.png)
 
 
 
