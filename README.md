@@ -3,6 +3,14 @@
   - It is A Tool That You Can Use To Download All The Files Saved In A Facebook Automatically.
 
 
+# Proof:
+
+![Screenshot](proof-1.png)
+
+![Screenshot](proof-2.png)
+
+
+
 # Requirements:
 
   - Google Chrome Browser
@@ -70,7 +78,7 @@
   - If You Are Planning To Run It On Windows, God Have Mercy On You Since You Are A Lost Cause. If You Really Want To Run This On Though, Just Reproduce Those 
   
     Steps Above But Download The ChromeDriver For Windows And Double Click on LSLNM Tool and Everything Should Work Fine.
-    
+ 
   
 # What To Do If You Encounter Any Error?
 
