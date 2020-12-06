@@ -48,6 +48,31 @@
  
  - Now It Asks You For Your Facebook Login And Password (If You Dont Trust Me, Just Create And Use A Dummy FB Account).
  
- - Now After You Have Put Your Facebook Credentials
+ - Now After You Have Put Your Facebook Credentials, Put Now The Target Group Link Like This For Example "https://www.facebook.com/groups/1148737265526486/files"
  
+ - For Example Target Any Facebook Group, Get Its Link And Add /files At The End Of It Like This: "https://www.facebook.com/groups/OffSec/files". Note: Make SUre 
+ 
+   The Group Has Files Uploaded Or The LSLNM Tool Wont Work And It Will Hang Or Throw An Exception.
+   
+  - Now Leave It Collects Data Needed For It To Work (It Might Take To 5 Minutes Maximum) And It Will Start Downloading Those Files To Your Machine. They Will Be
+  
+    Located In The Same Folder You Keep ChromeDriver and LSLNM Tool.
+ 
+ 
+  
+# How To Set It Up On MAC:
+
+  - Same Steps As Linux But Download ChromeDriver For MAC and Different Way To Install Google Chrome Browser (If You Dont Already Have It).
+  
+  
+# How To Set It Up On Windows:
+
+  - If You Are Planning To Run It On Windows, God Have Mercy On You Since You Are A Lost Cause. If You Really Want To Run This On Though, Just Reproduce Those 
+  
+    Steps Above But Download The ChromeDriver For Windows And Double Click on LSLNM Tool and Everything Should Work Fine.
+    
+  
+# What To Do If You Encounter Any Error?
+
+  - Open A Ticket On Github And I Reply to You ASAP.
  
