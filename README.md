@@ -1,6 +1,6 @@
 # What is LSLNM Tool?
 
-  - It is A Tool That You Can Use To Download All The Files Saved In A Facebook Automatically.
+  - It is A Tool That You Can Use To Download All The Files Saved In Any Facebook Group Automatically.
 
 
 # Proof:
